@@ -1,4 +1,4 @@
-@font-face { font-family: 'roboto'; src: url(‘roboto.ttf’) format(‘truetype’); }
+@import url('roboto.ttf')
 
 body {
   font-familly: roboto;
